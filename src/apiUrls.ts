@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://webhook.site/87c00c21-db40-43c9-8179-c7952c670b61'
