@@ -4,11 +4,8 @@ import TableHeader from './components/layouts/TableHeader';
 import SegmentScreen from './pages/SegmentSchemaScreen';
 
 const App: React.FC = () => {
-
-
   return (
     <Container sx={{ marginTop: "10px" }}>
-
       <SegmentScreen />
     </Container>
   );
